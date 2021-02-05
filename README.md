@@ -4,3 +4,5 @@ A Accordion.
 List where you can search something from Wikipedia.
 Dropdown menu.
 Translate App - used google api.
+
+Use npm i - then npm start
